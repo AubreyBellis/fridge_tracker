@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: one
+  size: 1
+  has_alcohol: false
+
+two:
+  name: two
+  size: 1
+  has_alcohol: false
